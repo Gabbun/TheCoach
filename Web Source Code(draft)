@@ -1,0 +1,13 @@
+<script async='async' src='//www.matteorocca.com/wp-content/cache/wpfc-minified/ldeoeic9/2b1yh.js' id='jquery-core-js'></script>
+<script src="https://ga.getresponse.com/script/ga.js?grid=sBDcJWkxedn8IAA%3D%3D" async></script>
+<script defer='defer' src="//www.matteorocca.com/wp-content/cache/wpfc-minified/e6iwr9d4/dmkvv.js"></script>
+
+return document.cookie.indexOf(disableStr + '=true') > - 1;
+}
+if(__gtagTrackerIsOptedOut()){
+window[disableStr]=true;
+}
+function __gtagTrackerOptout(){
+document.cookie=disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+window[disableStr]=true;
+</body></html><!-- WP Fastest Cache file was created in 1.8663461208344 seconds, on 31-07-21 22:54:09 -->
